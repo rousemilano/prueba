@@ -1,5 +1,6 @@
 def saludo():
-    print("Hola routh")
+    vaciones "en hawai"
+    print(vacaciones)
     print("hola mundo")
 
 def __main__():
