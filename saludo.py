@@ -1,6 +1,5 @@
 def saludo():
-    a = 2 + 3
-    print("La suma es",a)
+    print("Hola routh")
     print("hola mundo")
 
 def __main__():
