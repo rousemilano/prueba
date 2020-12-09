@@ -1,6 +1,7 @@
 def saludo():
-    vaciones "en hawai"
-    print(vacaciones)
+    print("Hola routh")
+    suma = 5 + 10
+    print(suma)
     print("hola mundo")
 
 def __main__():
